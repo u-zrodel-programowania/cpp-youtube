@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490024388 source:/Users/mac/Documents/cpp/cpp-youtube/pierwiastek_metoda_polowienia/main.cpp
+	<iostream>
+	<cmath>
+
